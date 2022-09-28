@@ -70,11 +70,31 @@ h1 {
   text-align: center;
   font-size: 60px;
   padding-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Reem Kufi Fun', sans-serif;
 }
+
+h2 {
+  font-size: xx-large;
+  font-weight: 700;
+}
+
 h3 {
   text-align: center;
   font-size: 30px;
+  font-family: 'Bungee Spice', cursive;
+
 }
+
+h4 {
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: aqua;
+  font-weight: 600;
+  
+  
+}
+
 td {
   padding: 1em .8em;
   text-align: center;
